@@ -5,7 +5,7 @@ Week  P3roject for the [CodePath](http://www.codepath.com/) course [iOS Bootcamp
 
 Use Xcode to leverage animations and gestures to implement the Mailbox interactions.
 
-Time spent: 11 hours spent in total
+Time spent: 11 hours spent in total 
 
 Completed user stories:
  * [x] Required: Setup, Mailbox Screen, Message Interaction, Swipeable Menu
