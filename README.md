@@ -1,9 +1,11 @@
 # HW3
 ### Mailbox
 
-Week  P3roject for the [CodePath](http://www.codepath.com/) course [iOS Bootcamp for designers] (http://codepath.com/iosfordesigners).
+Week 3 Project for the [CodePath](http://www.codepath.com/) course [iOS Bootcamp for designers] (http://codepath.com/iosfordesigners).
 
 Use Xcode to leverage animations and gestures to implement the Mailbox interactions.
+
+> Featured as one of the Top App projects
 
 Time spent: 11 hours spent in total 
 
