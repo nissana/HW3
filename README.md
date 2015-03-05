@@ -7,9 +7,9 @@ Use Xcode to leverage animations and gestures to implement the Mailbox interacti
 
 > Featured as one of the Top App projects
 
-Time spent: 11 hours spent in total 
+Time spent: 11 hours total 
 
-Completed user stories:
+**Completed user stories:**
  * [x] Required: Setup, Mailbox Screen, Message Interaction, Swipeable Menu
 
  * On dragging the message left...
@@ -33,7 +33,7 @@ Upon release, the message should continue to reveal the red background. When the
  * [x] Optional: Tap the segmented control
  * [x] Optional: Shake to undo
  
-Walkthrough of all user stories:
+**Walkthrough of all user stories:**
 
 ![hw3](https://cloud.githubusercontent.com/assets/10460611/6320979/a42ece3e-baa2-11e4-84c0-ff1364d8f1ad.gif)
 
