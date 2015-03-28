@@ -1,4 +1,4 @@
-# HW3
+# Project 3
 ### Mailbox
 ` Featured as one of the Top App projects`
 
